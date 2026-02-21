@@ -47,6 +47,7 @@ Simular o dia a dia de um time de desenvolvimento, adquirindo experiência prát
 
 ---
 
-## 👨‍💻 Autor
+## Autores
 
 Gabriel Santos de Lima
+Guilherme Rodrigues
